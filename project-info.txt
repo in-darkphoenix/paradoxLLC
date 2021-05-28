@@ -1,0 +1,5 @@
+as you have reached the github link for the project
+so, fork this repository in your github account
+create your branch and work in there and contribute 
+towards the project by sending the pull request to my github repo.
+we will meet about the project and decide its forthcoming.

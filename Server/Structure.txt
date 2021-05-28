@@ -1,0 +1,3 @@
+Here, in the client directory,
+you have to configure the back-end part
+of the web page we are designing.
