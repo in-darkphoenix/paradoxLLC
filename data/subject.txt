@@ -1,0 +1,102 @@
+SEM 1
+
+Code     Subject     Credit
+
+th
+ETMA-101 Applied Mathematics-I 4
+ETPH-103 Applied Physics-I 3
+ETME-105 Manufacturing Processes 3
+ETEE-107 Electrical Technology 3
+ETHS-109 Human Values and Professional Ethics-I# 1
+ETCS-111 Fundamentals of Computing 2
+ETCH-113 Applied Chemistry 3
+
+pr
+ETPH-151 Applied Physics Lab-I 1
+ETEE-153 Electrical Technology Lab 1
+ETME-155 Workshop Practice 2
+ETME-157 Engineering Graphics Lab 2
+ETCS-157 Fundamentals of Computing Lab 1
+ETCH-161 Applied Chemistry Lab 1
+NCC/NSS
+
+
+SEM 2
+
+Code     Subject     Credit
+
+th
+ETMA-102 Applied Mathematics-II 4
+ETPH-104 Applied Physics-II 3
+ETEC-106 Electronic Devices 3
+ETCS-108 Introduction to Programming 3
+ETME-110 Engineering Mechanics 3
+ETHS-112 Communication Skills 3
+ETEN-114 Environmental Studies 3
+
+pr
+ETPH-152 Applied Physics Lab-II 1
+ETCS-154 Programming Lab 1
+ETEC-156 Electronic Devices Lab 1
+ETME-158 Engineering Mechanics Lab 1
+ETEN-160 Environmental Studies Lab 1
+
+
+SEM 3
+
+Code     Subject     Credit
+
+th
+ETMA 201 Applied Mathematics – III 4
+ETCS 203 Foundation of Computer Science 4
+ETEC 205 Switching Theory and Logic Design 4
+ETEE 207 Circuits and Systems 4
+ETCS 209 Data Structure 4
+ETCS 211 Computer Graphics and Multimedia 4
+
+pr
+ETEC 253 Switching Theory and Logic Design Lab 1
+ETCS 255 Data Structure Lab 1
+ETEE 257 Circuits and Systems Lab 1
+ETCS 257 Computer Graphics and Multimedia Lab 1
+
+
+SEM 4
+
+Code     Subject     Credit
+
+th
+ETMA 202 Applied Mathematics – IV 4
+ETCS 204 Computer Organization and Architecture 4
+ETCS 206 Theory of Computation 4 
+ETCS 208 Database Management Systems 4 
+ETCS 210 Object Oriented Programming 3
+ETEC 212 Communication Systems 4
+
+pr
+ETMA 252 Applied Mathematics Lab 1
+ETCS 260 Computer Organization and Architecture Lab 1
+ETCS 256 Database Management Systems Lab 1
+ETCS 258 Object Oriented Programming Lab 1
+ETEC 256 Communication Systems Lab 1
+
+
+SEM 5
+
+Code    Subject    Credit
+
+th
+ETCS301 Algorithms Design and Analysis 4
+ETCS303 Software Engineering 4
+ETCS 307 Java Programming 4 
+ETMS 311 Industrial Management 3
+ETEC-303 Digital Communication 4
+ETHS 301 Communication Skills for Professionals 1
+
+pr
+ETCS 351 Algorithms Design and Analysis Lab 1
+ETCS 353 Software Engineering Lab 1
+ETCS 357 Java Programming Lab 1
+ETCS 359 Viva Industrial Training / In-house Workshop 1
+ETEC-357 Digital Communication Lab 1
+ETHS 351 Communication Skills for Professionals Lab 1
