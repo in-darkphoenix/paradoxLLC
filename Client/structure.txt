@@ -1,3 +1,0 @@
-Here, in the client directory,
-you have to configure the front-end part
-of the web page we are designing.
