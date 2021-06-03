@@ -22,12 +22,12 @@ const t1 = {
 
 const p1 = {
   code: [
-    "ETPH - 151",
-    "ETEE - 153",
-    "ETME - 155",
-    "ETME - 157",
-    "ETCS - 157",
-    "ETCH - 161",
+    "ETPH-151",
+    "ETEE-153",
+    "ETME-155",
+    "ETME-157",
+    "ETCS-157",
+    "ETCH-161",
   ],
   sub: [
     "Applied Physics Lab-I",
@@ -75,12 +75,12 @@ const p2 = {
 
 const t3 = {
   code: [
-    "ETMA 201",
-    "ETCS 203",
-    "ETEC 205",
-    "ETEE 207",
-    "ETCS 209",
-    "ETCS 211",
+    "ETMA-201",
+    "ETCS-203",
+    "ETEC-205",
+    "ETEE-207",
+    "ETCS-209",
+    "ETCS-211",
   ],
   sub: [
     "Applied Mathematics – III",
@@ -106,12 +106,12 @@ const p3 = {
 
 const t4 = {
   code: [
-    "ETMA 202",
-    "ETCS 204",
-    "ETCS 206",
-    "ETCS 208",
-    "ETCS 210",
-    "ETEC 212",
+    "ETMA-202",
+    "ETCS-204",
+    "ETCS-206",
+    "ETCS-208",
+    "ETCS-210",
+    "ETEC-212",
   ],
   sub: [
     "Applied Mathematics – IV",
@@ -125,7 +125,7 @@ const t4 = {
 };
 
 const p4 = {
-  code: ["ETMA 252", "ETCS 260", "ETCS 256", "ETCS 258", "ETEC 256"],
+  code: ["ETMA-252", "ETCS-260", "ETCS-256", "ETCS-258", "ETEC-256"],
   sub: [
     "Applied Mathematics Lab",
     "Computer Organization and Architecture Lab",
@@ -137,7 +137,14 @@ const p4 = {
 };
 
 const t5 = {
-  code: ["ETCS301", "ETCS303", "ETCS 307", "ETMS 311", "ETEC-303", "ETHS 301"],
+  code: [
+    "ETCS-301",
+    "ETCS-303",
+    "ETCS-307",
+    "ETMS-311",
+    "ETEC-303",
+    "ETHS-301",
+  ],
   sub: [
     "Algorithms Design and Analysis",
     "Software Engineering",
@@ -151,12 +158,12 @@ const t5 = {
 
 const p5 = {
   code: [
-    "ETCS 351",
-    "ETCS 353",
-    "ETCS 357",
-    "ETCS 359",
+    "ETCS-351",
+    "ETCS-353",
+    "ETCS-357",
+    "ETCS-359",
     "ETEC-357",
-    "ETHS 351",
+    "ETHS-351",
   ],
   sub: [
     "Algorithms Design and Analysis Lab",
